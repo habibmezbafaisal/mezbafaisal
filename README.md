@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Faisal</h1>
-<h3 align="center">Software Engineer & Machine Learning Engineer</h3>
+<h1>I'm Faisal</h1>
+<h3>Software Engineer & Machine Learning Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mezbafaisal&label=Profile%20views&color=0e75b6&style=flat" alt="mezbafaisal" /> </p>
 
