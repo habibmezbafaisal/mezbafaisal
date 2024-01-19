@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hey There👋, I'm Faisal</h1>
-<h4 align="center"> A Software Engineer & A Machine Learning Engineer</h4>
+<h3 align="center"> A Software Engineer & A Machine Learning Engineer</h3>
 <h3 align="left">Connect me:</h3>
 <p align="left">
 <a href="https://fb.com/mezbafaisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mezbafaisal" height="30" width="40" /></a>
